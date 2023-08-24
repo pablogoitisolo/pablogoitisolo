@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pablogoitisolo
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on net core
